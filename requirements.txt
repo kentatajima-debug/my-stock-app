@@ -1,4 +1,4 @@
 streamlit
-yfinance
+yfinance --no-dependencies
 pandas-ta
 plotly
